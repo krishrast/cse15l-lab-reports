@@ -1,4 +1,5 @@
-# Lab Report 1
+# Krishna Rastogi Lab Report 1
+
 
 ## `cd` Command
 ![Image](lab11.png)
@@ -12,6 +13,7 @@ Here, the argument given to the command was the relative path to the `Downloads`
 ![Image](lab13.png)
 
 The argument given was the relative path to a Java file, not a directory, so an error message is given stating that the argument was not a directory. This is only an error from the user but the terminal behaves as it should and responds correctly to the incorrect argument.
+
 
 ## `ls` Command
 
@@ -27,5 +29,7 @@ Here, the argument given to the command was the relative path to the `messages` 
 
 The argument given was the relative path to a text file, not a directory, so the argument that was given to the `ls` is just reprinted. This doesn't seem to be an error as nothing actually went wrong in the terminal and so it seems to be the intended response for this case.
 
+
 ## `cat` Command
+
 
