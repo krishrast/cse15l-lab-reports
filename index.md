@@ -15,5 +15,11 @@ The argument given was the relative path to a Java file not a directory so an er
 
 ## `ls` Command
 
+![Image](lab14.png)
+
+![Image](lab15.png)
+
+![Image](lab16.png)
+
 ## `cat` Command
 
