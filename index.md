@@ -2,8 +2,10 @@
 
 ## `cd` Command
 ![Image](lab11.png)
+
 When using no argument with `cd`, it is as if I have just given the argument `./` which is just the relative path to the current directory. Hence, the directory will not change and behaves as expected.
 ![Image](lab12.png)
+
 Here, the argument given to the command was the relative path to the Downloads folder located in the working directory. The argument given was valid and the directory was changed correctly. 
 ![Image](lab13.png)
 ## `ls` Command
