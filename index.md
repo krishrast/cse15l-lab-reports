@@ -32,4 +32,14 @@ The argument given was the relative path to a text file, not a directory, so the
 
 ## `cat` Command
 
+![Image](lab17.png)
 
+When using no argument with `cat`, it hasn't been given a file to read from so it just reads from user input into the terminal. Here is just repeats the same phrase I enter.
+
+![Image](lab18.png)
+
+Here, the argument given to the command was the relative path to the `messages` directory located in the working directory. The argument given was valid and the contents of that directory were listed.
+
+![Image](lab19.png)
+
+The argument given was the relative path to a text file, not a directory, so the argument that was given to the `ls` is just reprinted. This doesn't seem to be an error as nothing actually went wrong in the terminal and so it seems to be the intended response for this case.
