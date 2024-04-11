@@ -38,7 +38,7 @@ When using no argument with `cat`, it hasn't been given a file to read from so i
 
 ![Image](lab18.png)
 
-Here, the argument given to the command was the relative path to the `messages` directory located in the working directory. The argument given was valid and the contents of that directory were listed.
+Here, the argument given to the command was the relative path to the `messages` directory located in the working directory. Since it wasn't given a file or any input to read from, the terminal sends a message that the arguemnt given was a terminal and reponds correctly to the users unusual input.
 
 ![Image](lab19.png)
 
