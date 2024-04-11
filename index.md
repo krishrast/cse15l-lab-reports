@@ -42,4 +42,4 @@ Here, the argument given to the command was the relative path to the `messages` 
 
 ![Image](lab19.png)
 
-The argument given was the relative path to a text file, not a directory, so the argument that was given to the `ls` is just reprinted. This doesn't seem to be an error as nothing actually went wrong in the terminal and so it seems to be the intended response for this case.
+The argument given was the relative path to a text file and the contents of the text file were accurately printed in the terminal. The working directory stay the same.
