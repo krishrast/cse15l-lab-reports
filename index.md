@@ -1,12 +1,12 @@
 #Lab Report 1
 
-## 'cd' Command
+## `cd` Command
 ![Image](lab11.png)
 
 ![Image](lab12.png)
 
 ![Image](lab13.png)
-## 'ls' Command
+## `ls` Command
 
-## 'cat' Command
+## `cat` Command
 
