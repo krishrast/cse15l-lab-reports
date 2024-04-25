@@ -4,7 +4,7 @@
 ## `cd` Command
 ![Image](lab11.png)
 
-When using no argument with `cd`, it is as if I have just given the argument `./` which is just the relative path to the current directory. Hence, the directory will not change and behaves as expected.
+When using no argument with `cd`, it is as if I have just given the argument `./` which is just the relative path to the current directory. Hence, the directory "change" to the same directory as the current one and behaves as expected.
 
 ![Image](lab12.png)
 
